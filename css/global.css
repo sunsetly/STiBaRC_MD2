@@ -1,5 +1,5 @@
 body {
-	background-color: #98DFF3;
+	background-color: #2196F3;
 	word-wrap: break-word;
 	touch-action: manipulation;
 	overflow-y: auto;
@@ -43,7 +43,7 @@ a:active {
 }
 
 footer {
-	background-color: #49B9CA;
+	background-color: #1976D2;
 	text-align: center;
 	word-wrap: break-word;
 	padding: 15px; 
